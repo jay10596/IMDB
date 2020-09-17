@@ -1,26 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Router from './Router';
+import './styles/main.css'
 
+
+// Unlike Vue, RouterLink does not exit. Therefore, we need to import all routers. We can't define basic app structure with changing router-view because then we will not e able to use router Link inside the Nav or Footer component
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return(
+        <div>
+            <Router />
+        </div>
+    )
 }
 
-export default App;
+export default App
