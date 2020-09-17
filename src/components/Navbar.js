@@ -30,7 +30,6 @@ function Navbar() {
                     <FaSearch className='mx-4 text-blue-400 text-xl' />
                 </div>
             </div>
-
         </div>
     )
 }

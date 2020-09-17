@@ -45,7 +45,6 @@ class Detail extends Component{
                         </div>
                     </div>
 
-
                     <div className='flex justify-center items-center'>
                         <div className='w-8/12 py-4'>
                             <h1 className='text-2xl font-normal font-sans py-8'>Actors</h1>

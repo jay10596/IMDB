@@ -1,5 +1,5 @@
 // Configuration for TMDB Movies
-// To se the latest configuration fetch it from https://api.themoviedb.org/3/configuration?api_key=019e8f375549e0bbd4a4191862ebc88f
+// To see the latest configuration fetch it from https://api.themoviedb.org/3/configuration?api_key=019e8f375549e0bbd4a4191862ebc88f
 const API_URL = 'https://api.themoviedb.org/3/';
 const API_KEY = 'f920c34a945997d3691dd5f5e2d79a01';
 
