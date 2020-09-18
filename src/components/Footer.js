@@ -23,19 +23,19 @@ function Footer() {
                     <div className='pr-8 ml-2 text-gray-400 font-light'>
                         <h1 className='font-semibold text-white text-lg'>GET INVOLVED</h1>
 
-                        <p>About TMDB</p>
-                        <p>Contact Us</p>
-                        <p>APi</p>
-                        <p>System</p>
+                        <p>FAQ</p>
+                        <p>Call Us</p>
+                        <p>iOS Update</p>
+                        <p>OS</p>
                     </div>
 
                     <div className='pr-8 ml-2 text-gray-400 font-light'>
                         <h1 className='font-semibold text-white text-lg'>COMMUNITY</h1>
 
-                        <p>About TMDB</p>
-                        <p>Contact Us</p>
-                        <p>APi</p>
-                        <p>System</p>
+                        <p>iMDB</p>
+                        <p>Contact</p>
+                        <p>Deployment</p>
+                        <p>Amazon</p>
                     </div>
 
                     <div className='pr-8 ml-2 text-gray-400 font-light'>
@@ -43,8 +43,8 @@ function Footer() {
 
                         <p>About TMDB</p>
                         <p>Contact Us</p>
-                        <p>APi</p>
-                        <p>System</p>
+                        <p>IDE</p>
+                        <p>Software</p>
                     </div>
                 </div>
             </div>

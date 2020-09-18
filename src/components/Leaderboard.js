@@ -79,7 +79,7 @@ function Leaderboard() {
                         <img src="/pp4.jpg" className='w-16 h-16 rounded-full object-cover mr-4' alt="Footer Logo"/>
 
                         <div className='w-full'>
-                            <p className='font-semibold'>Jorge Masvidal</p>
+                            <p className='font-semibold'>Street Jesus</p>
 
                             <div className='flex items-center'>
                                 <div className="progress my-2" style={{width: `${n1 = randomNumber()}%`, backgroundImage: 'linear-gradient(to right, white, #38b2ac, #38b2ac)'}}></div> <p className='mx-2 text-xs font-semibold'>{n1}%</p>
